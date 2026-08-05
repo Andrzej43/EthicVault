@@ -1,74 +1,24 @@
-<!-- fallback_EthicVault_20260703032100_28579 -->
+# ⚡ RunHQ
 
-# EthicVault: Effortlessly secure enterprise-grade data with adaptive, AI-driven multi-factor authentication and decentralized, auto-scaling VaultEngine Implementation
-> Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
+> **Agentic Crowdcoding Engine** — Turn community feedback into dozens of parallel AI coding sessions that build, test, and ship features in real time.
 
-Effortlessly secure enterprise-grade data with adaptive, AI-driven multi-factor authentication and decentralized, auto-scaling VaultEngine.
+---
 
-EthicVault is designed to provide developers and professionals with a robust, efficient, and scalable solution for their javascript development needs. This implementation focuses on performance, maintainability, and ease of use, incorporating industry best practices and modern software architecture patterns.
+## 📌 Overview
 
-The primary purpose of EthicVault is to streamline development workflows and enhance productivity through innovative features and comprehensive functionality. Whether you're building enterprise applications, data processing pipelines, or interactive systems, EthicVault provides the foundation you need for successful project implementation.
+**RunHQ** is an orchestration platform designed for **Agentic Crowdcoding**. It bridges human intent with multi-agent AI execution, enabling open-source projects and live apps like [Arrr.fun](http://arrr.fun) to scale development exponentially.
 
-EthicVault's key benefits include:
+Instead of traditional open-source workflows—writing code manually, submitting pull requests, and waiting days for code reviews—RunHQ allows project maintainers and community contributors to grant access, dispatch job requests, and supervise autonomous coding agents working in parallel.
 
-* **High-performance architecture**: Leveraging optimized algorithms and efficient data structures for maximum performance.
-* **Modern development patterns**: Implementing contemporary software engineering practices and design patterns.
-* **Comprehensive testing**: Extensive test coverage ensuring reliability and maintainability.
+---
 
-# Key Features
+## 🔑 Core Concepts
 
-* **Modern ES6+ JavaScript features**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Asynchronous programming patterns**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Modular component architecture**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Cross-browser compatibility**: Advanced implementation with optimized performance and comprehensive error handling.
-* **Responsive design principles**: Advanced implementation with optimized performance and comprehensive error handling.
+* **Agentic Crowdcoding:** A paradigm where humans act as orchestrators and quality gates while AI agents handle implementation, environment setup, and testing.
+* **Concurrent Agent Sessions:** Spin up 10+ parallel sandboxes simultaneously to tackle distinct features, refactors, or bug fixes without git collision bottlenecks.
+* **RunHQ Points:** A built-in gamification and incentive layer that rewards contributors with points based on the complexity, speed, and success of the jobs they initiate and ship.
+* **Sandboxed Execution:** Isolated runtime environments where agents can safely execute terminal commands, edit files, and spin up local preview servers.
 
-# Technology Stack
+---
 
-* **Javascript**: Primary development language providing performance, reliability, and extensive ecosystem support.
-* **Modern tooling**: Utilizing contemporary development tools and frameworks for enhanced productivity.
-* **Testing frameworks**: Comprehensive testing infrastructure ensuring code quality and reliability.
-
-# Installation
-
-To install EthicVault, follow these steps:
-
-1. Clone the repository:
-
-
-2. Follow the installation instructions in the documentation for your specific environment.
-
-# Configuration
-
-EthicVault supports various configuration options to customize behavior and optimize performance for your specific use case. Configuration can be managed through environment variables, configuration files, or programmatic settings.
-
-## # Configuration Options
-
-The following configuration parameters are available:
-
-* **Verbose Mode**: Enable detailed logging for debugging purposes
-* **Output Format**: Customize the output format (JSON, CSV, XML)
-* **Performance Settings**: Adjust memory usage and processing threads
-* **Network Settings**: Configure timeout and retry policies
-
-# Contributing
-
-Contributions to EthicVault are welcome and appreciated! We value community input and encourage developers to help improve this project.
-
-## # How to Contribute
-
-1. Fork the EthicVault repository.
-2. Create a new branch for your feature or fix.
-3. Implement your changes, ensuring they adhere to the project's coding standards and guidelines.
-4. Submit a pull request, providing a detailed description of your changes.
-
-## # Development Guidelines
-
-* Follow the existing code style and formatting conventions
-* Write comprehensive tests for new features
-* Update documentation when adding new functionality
-* Ensure all tests pass before submitting your pull request
-
-# License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Andrzej43/EthicVault/blob/main/LICENSE) file for details.
+## 🛠️ Architecture & Workflow
