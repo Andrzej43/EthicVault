@@ -19,6 +19,3 @@ Instead of traditional open-source workflows—writing code manually, submitting
 * **RunHQ Points:** A built-in gamification and incentive layer that rewards contributors with points based on the complexity, speed, and success of the jobs they initiate and ship.
 * **Sandboxed Execution:** Isolated runtime environments where agents can safely execute terminal commands, edit files, and spin up local preview servers.
 
----
-
-## 🛠️ Architecture & Workflow
